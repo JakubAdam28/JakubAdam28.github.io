@@ -1,2 +1,2 @@
 # Seznamy
-JakubAdam28.github.io
+ODKAZ: JakubAdam28.github.io
